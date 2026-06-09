@@ -3,7 +3,7 @@ services:
   app:
     build:
       context: ..
-      dockerfile: Dockerfile
+      dockerfile: dockerfile
     image: jinujames12/jj-whatomate:latest
     container_name: whatomate_app
     restart: unless-stopped
