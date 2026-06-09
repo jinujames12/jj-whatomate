@@ -100,7 +100,7 @@ const initiateSSO = (provider: string) => {
             <MessageSquare class="h-7 w-7 text-white" />
           </div>
         </div>
-        <h2 class="text-2xl font-bold text-white light:text-gray-900">{{ $t('auth.welcomeTitle') }}</h2>
+        <h2 class="text-2xl font-bold text-white light:text-gray-900">JJs test Build</h2>
         <p class="text-white/50 light:text-gray-500">
           {{ $t('auth.welcomeSubtitle') }}
         </p>
